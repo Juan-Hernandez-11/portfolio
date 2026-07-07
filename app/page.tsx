@@ -4,7 +4,7 @@ import Image from "next/image";
    👉 EDITA AQUÍ TUS DATOS
    ========================================================================== */
 const me = {
-  name: "Juan Ciprian",
+  name: "Juan Hernandez", // 👉 ajusta tu nombre
   role: "Desarrollador Web & Móvil", // 👉 ajusta tu título
   location: "Colombia",
   email: "juan.ciprian@cun.edu.co",
