@@ -9,9 +9,9 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: "Juan Ciprian — Desarrollador Web & Móvil",
+  title: "Juan Hernandez — Desarrollador Web & Móvil",
   description:
-    "Portafolio de Juan Ciprian. Desarrollo de aplicaciones web y móviles: landings, sistemas de gestión y apps a la medida con React, Next.js y TypeScript.",
+    "Portafolio de Juan Hernandez. Desarrollo de aplicaciones web y móviles: landings, sistemas de gestión y apps a la medida con React, Next.js y TypeScript.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
